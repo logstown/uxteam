@@ -1,0 +1,132 @@
+.img-center {
+    margin: 0px auto;
+}
+
+#banner {
+    box-shadow: 20px 20px 50px 20px #888888;
+    border-radius: 4px;
+}
+
+.bio {
+    padding-top: 100px;
+    border-bottom: 2px solid #5FD9FF;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.padme {
+    padding-top: 100px;
+}
+
+.wrapper {
+    display: inline-block;
+    position: relative;
+}
+
+.share {
+    margin-top: 50px;
+    padding-bottom: 50px;
+}
+
+.super {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+hr {
+    background: #5FD9FF; border:0; height:2px;
+}
+
+.social {
+    margin: 20px;
+}
+
+i {
+    font-size: 270%;
+}
+
+#fb {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+#start {
+    background-color: #5FD9FF;
+    min-height: 100%;
+}
+
+#middle {
+    padding-top: 200px;
+}
+
+#main {
+    display: none;
+}
+
+html, body {
+    height:100%;
+    margin: 0;
+}
+
+table {
+    min-height: 100%;
+    width: 100%;
+}
+
+td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.cent {
+    text-align: center;
+}
+
+#arrow {
+    padding-top: 20px;
+    
+}
+
+#arrow:hover {
+    cursor: pointer;
+}
+
+#orsyp {
+    padding: 100px;
+}
+
+#team {
+    position: absolute;
+}
+
+.bio-pad-right {
+    padding-right: 10px;
+}
+
+.bio-pad-left {
+    padding-left: 10px;
+}
+
+#location {
+    position: absolute;
+    right: 0;
+}
+
+#ux {
+    position:absolute;
+    left: 0;
+    right:0;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.abs {
+    position: absolute;
+}
+
+.big {
+    font-size: 500%;
+    text-shadow: 2px 2px 2px grey;
+}
+
+
