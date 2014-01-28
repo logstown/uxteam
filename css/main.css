@@ -143,19 +143,19 @@ td {
     height: auto;
     margin: 80px auto 0 auto;
     text-align: center;
-    width: 680px;
+    width: 780px;
 }
 
 /* Image Box Style */
 #mainwrapper .box {
-    border: 5px solid #fff;
+    border: 0px solid #fff;
     cursor: pointer;
-    height: 202px;
+    height: 250px;
     float: left;
     margin: 5px;
     position: relative;
     overflow: hidden;
-    width: 220px;
+    width: 260px;
         -webkit-box-shadow: 1px 1px 1px 1px #ccc;
         -moz-box-shadow: 1px 1px 1px 1px #ccc;
         box-shadow: 1px 1px 1px 1px #ccc;
@@ -178,7 +178,7 @@ caption {
 }
 /* Caption Common Style */
 #mainwrapper .box .caption {
-    background-color: #5FD9FF;
+    background-color: #0081B8;
     opacity:0.5;
     position: absolute;
     color: #fff;
@@ -195,11 +195,12 @@ caption {
 /** Caption 1: Simple **/
 #mainwrapper .box .simple-caption {
     height: 30px;
-    width: 220px;
+    width: 260px;
     display: block;
     bottom: -30px;
     line-height: 25pt;
-    text-align: center;
+    text-align: left;
+    padding-left: 10px;
 }
 
 /** Simple Caption :hover Behaviour **/
